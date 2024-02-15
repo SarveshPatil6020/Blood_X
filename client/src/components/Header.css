@@ -1,0 +1,28 @@
+img{
+    width:5%;
+    height:5%;
+}
+
+.color-nav{
+    /* background-color: rgb(255, 0, 0); */
+}
+
+/* .navbar-brand, .navbar-link, .navbar-dropdown{
+    color:rgb(0, 83, 132);
+    font: 16px Montserrat, sans-serif;
+} */
+
+.button{
+    color:red;
+    font: 16px Montserrat, sans-serif;
+}
+
+nav-brand:hover{
+    color:rgb(57, 57, 57);
+}
+
+.active-link {
+  color: black;
+  font-weight: bold;
+}
+
